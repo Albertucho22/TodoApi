@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\TodoApi.exe
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\appsettings.json
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\TodoApi.dll
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\TodoApi.deps.json
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\TodoApi.runtimeconfig.json
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\TodoApi.pdb
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\TodoApi\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

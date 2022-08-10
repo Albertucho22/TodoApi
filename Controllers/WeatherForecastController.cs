@@ -30,6 +30,7 @@ public class WeatherForecastController : ControllerBase
         //     Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         // })
         // .ToArray();
-        return _configuration["Example"];
+        var a = _configuration["Example"];
+        return a;
     }
 }
