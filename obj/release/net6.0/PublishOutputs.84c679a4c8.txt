@@ -1,0 +1,11 @@
+D:\Documentos\Repos\TodoApi\out\TodoApi.exe
+D:\Documentos\Repos\TodoApi\out\appsettings.Development.json
+D:\Documentos\Repos\TodoApi\out\appsettings.json
+D:\Documentos\Repos\TodoApi\out\TodoApi.dll
+D:\Documentos\Repos\TodoApi\out\TodoApi.deps.json
+D:\Documentos\Repos\TodoApi\out\TodoApi.runtimeconfig.json
+D:\Documentos\Repos\TodoApi\out\TodoApi.pdb
+D:\Documentos\Repos\TodoApi\out\Microsoft.OpenApi.dll
+D:\Documentos\Repos\TodoApi\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\Repos\TodoApi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\Repos\TodoApi\out\Swashbuckle.AspNetCore.SwaggerUI.dll

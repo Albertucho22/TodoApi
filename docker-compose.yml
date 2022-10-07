@@ -4,9 +4,11 @@ version: '3.4'
 
 services:
   todoapi:
-    image: todoapi
+    image: todo-api
     build:
       context: .
       dockerfile: ./Dockerfile
     ports:
       - 90:90
+    env_file:
+      - "TodoApi.env"

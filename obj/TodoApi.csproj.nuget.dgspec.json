@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\TodoApi\\TodoApi.csproj": {}
+    "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\TodoApi\\TodoApi.csproj": {
+    "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\admin\\Desktop\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\TodoApi\\obj\\",
+        "projectPath": "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "d:\\Documentos\\Repos\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
