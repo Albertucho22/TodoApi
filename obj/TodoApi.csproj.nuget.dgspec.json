@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {}
+    "D:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {
+    "D:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "D:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "d:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
+        "projectPath": "D:\\Documentos\\Repos\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "d:\\Documentos\\Repos\\TodoApi\\obj\\",
+        "outputPath": "D:\\Documentos\\Repos\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
